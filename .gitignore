@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+data/raw/
+*.zip
+
+.vscode/
+
+models/
+*.pkl
+*.joblib
+
+*.csv
+!data/processed/customer_features_final.csv
